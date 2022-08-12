@@ -38,7 +38,7 @@ btn1.pull = digitalio.Pull.DOWN
 # btn6.pull = digitalio.Pull.DOWN
 
 keyboard = Keyboard(usb_hid.devices)
-int counter=0;
+int counter=0
 while True:
     if btn1.value:
           counter+=1
