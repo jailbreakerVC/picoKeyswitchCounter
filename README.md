@@ -11,6 +11,6 @@ To replicate
 
 Connect switch pin to GP9 and GP36
 
-Featured to add : 
+Features to add : 
 1. Oled output
 
