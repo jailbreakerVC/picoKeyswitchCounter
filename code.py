@@ -44,6 +44,7 @@ while True:
           counter+=1
           print(counter)
 #         keyboard.send(Keycode.CONTROL, Keycode.F7)
+          keyboard.write('KEY PRESSED')
         time.sleep(0.1)
 #     if btn2.value:
 #         keyboard.send(Keycode.CONTROL, Keycode.F8)
